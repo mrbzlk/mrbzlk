@@ -1,4 +1,4 @@
-14 y.o. coder from Russia.
+15 y.o. coder from Russia.
 
 💎 Python:
 ├ Telegram: aiogram, telethon, telebot
